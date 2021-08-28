@@ -1,0 +1,40 @@
+body {
+  background-color:#E1F1DD;
+}
+
+/* Navbar */
+.navbars {
+  height: 11vh;
+  background-color:#93D9A3;
+  font-weight: bold;
+  color: #f2f2f2;
+}
+/*Navbar Text */
+.zippytext{
+  font-size: 2rem;
+  margin-left: 4vw;
+  padding-top: 1.5vh;
+  text-decoration: none;
+  color: #f2f2f2;
+}
+.zippytext:hover{
+  color: black;
+}
+.getuser{
+  padding: 5px;
+}
+/* Navbar Button Get User */
+.navbars .btn {
+  float: right;
+  color: white;
+  margin-right: 6%;
+  font-size: 2rem;
+  background-color:#57837B;
+  border: black;
+}
+.navbars .btn:hover {  
+  border-radius: 5px;
+  border: black;
+  color: white;
+  background-color: black;
+}
